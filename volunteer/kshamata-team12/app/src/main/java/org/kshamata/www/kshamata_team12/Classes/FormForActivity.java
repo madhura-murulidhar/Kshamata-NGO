@@ -19,5 +19,5 @@ public class FormForActivity {
     String obtainedOutcome;
     String amountSpent;
 
-    
+
 }
